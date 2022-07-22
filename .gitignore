@@ -1,0 +1,4 @@
+*.swp
+winlogonKiller/.vs
+winlogonKiller/Debug
+winlogonKiller/Release

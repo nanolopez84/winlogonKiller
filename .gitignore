@@ -1,4 +1,6 @@
 *.swp
 winlogonKiller/.vs
+winlogonKiller/winlogonKiller
+winlogonKiller/x64
 winlogonKiller/Debug
 winlogonKiller/Release
